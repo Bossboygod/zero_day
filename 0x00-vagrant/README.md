@@ -1,0 +1,1 @@
+** Result of using uname without running any option **
